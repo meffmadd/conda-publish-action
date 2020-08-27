@@ -50,6 +50,4 @@ jobs:
 
 ### Supported anaconda channels
 - conda-forge
-- pytorch
-- fcakyon
-- districtdatalabs
+
